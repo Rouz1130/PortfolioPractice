@@ -142,8 +142,22 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #social i {
-	font-size: 40px;
+	font-size: 75px;
 	color: #4a4a4a
+}
+#social if {
+	font-size: 75px;
+	color: #3B5998;
+}
+#social il {
+	font-size: 75px;
+	color: #4875B4;
+
+}
+#social iG {
+	font-size: 75px;
+	color: #6cc644;
+
 }
 
 #social i:hover {
@@ -170,7 +184,7 @@ h1, h2, h3, h4, h5, h6 {
 	background-position: center center;
 	min-height: 650px;
 	width: 100%;
-	
+
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
     -o-background-size: 100%;
