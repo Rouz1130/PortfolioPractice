@@ -90,13 +90,15 @@ h1, h2, h3, h4, h5, h6 {
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
   font-size: 40px;
-	color: #1abc9c;
+	color: 	#6296c1;
 	background-color: transparent;
-	border-bottom: 2px solid #1abc9c;
+	/*border-bottom: 2px solid 	#007FFF;*/
 }
 
 .navbar-default .navbar-nav > li > a {
-	color: #4682b4;
+	color:#99bbd7;
+  font-size: 15px;
+
 }
 
 
@@ -163,6 +165,11 @@ h1, h2, h3, h4, h5, h6 {
 	color: #6cc644;
 
 }
+#social iE {
+	font-size: 75px;
+	color: #dd4b39;
+
+}
 
 #social i:hover {
 	color: #1abc9c
@@ -176,6 +183,10 @@ h1, h2, h3, h4, h5, h6 {
 
 #footerwrap p {
 	color: #f2f2f2;
+	margin-left: 10px;
+}
+#footerwrap h1 {
+	color: #ffffff;
 	margin-left: 10px;
 }
 
@@ -214,8 +225,8 @@ h1, h2, h3, h4, h5, h6 {
 	color: #ffffff
 }
 
-#aboutwrap {
-	background: url(../img/rouz.png) no-repeat center top;
+/*#aboutwrap {
+	/*background: url(../img/rouz.png) no-repeat center top;*/
 	margin-top: -70px;
 	padding-top: 250px;
 	text-align:center;
@@ -233,8 +244,27 @@ h1, h2, h3, h4, h5, h6 {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+}*/
+/*#aboutwrap {
+	padding-top: 70px;
+	padding-bottom: 50px;
+	background-color: #2f2f2f;
+}*/
+
+#aboutwrap h1 {
+	color:#ffffff;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	letter-spacing: 4px;
+	font-size: 80px;
+	font-weight: bold;
 }
 
+#aboutwrap p {
+	margin-left: 10px;
+  padding-top: 70px;
+  padding-bottom: 50px;
+}
 
 
 
