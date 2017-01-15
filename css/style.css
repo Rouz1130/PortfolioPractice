@@ -75,29 +75,31 @@ h1, h2, h3, h4, h5, h6 {
 
 .navbar-brand {
 	font-weight: 700;
+  {padding: 0 15px; height: 80px; line-height: 80px;}
 }
 
 .navbar-default .navbar-brand {
 	color: #1abc9c;
+  padding: 0 5px; height: 40px; line-height: 40px;
 
 }
 
 .navbar-default {
-	background-color: transparent;
+	background-color:white;
 	border-color: transparent;
   font-size: 3px;
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-  font-size: 17px;
-	color: 	#d3d3d3;
+  font-size: 20px;
+	color: 	#4a4a4a;
 	background-color: transparent;
 	/*border-bottom: 2px solid 	#007FFF;*/
 }
 
 .navbar-default .navbar-nav > li > a {
-	color:#d3d3d3;
-  font-size: 11px;
+	color: #4a4a4a;
+  font-size: 15px;
 
 }
 
